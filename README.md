@@ -86,11 +86,11 @@ venv\Scripts\activate
 * npm run dev
 
 ### How to create the Superuser
-Since you are asking for the actual steps, here is how you do it on your local machine:
 
-*   **Open your terminal** and ensure you are in the folder where `manage.py` exists[cite: 9, 10].
-*   **Run the command:** `python manage.py createsuperuser`[cite: 9, 10].
-*   **Provide details:** It will ask for a username, email, and password. *Note: When typing the password, it will look like nothing is happening (no characters will appear on the screen)—this is a security feature in Linux/macOS/Windows terminals. Just type your password and press Enter[cite: 9, 10].*
+*   **Open your terminal** and ensure you are in the folder where `manage.py` exists.
+*   **Run the command:** `python manage.py createsuperuser`
+*   **Provide details:** It will ask for a username, email, and password.
+*   *Note: When typing the password, it will look like nothing is happening (no characters will appear on the screen)—this is a security feature in Linux/macOS/Windows terminals. Just type your password and press Enter[cite: 9, 10].*
 *   **Verify:** Once it says "Superuser created successfully," you can log in to your admin panel[cite: 9, 10].
 
 **🤝 Contributing**
