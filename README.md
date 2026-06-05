@@ -92,15 +92,21 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 This project is open-source and available under the MIT License.
 
 Built by Your Sujal Panchal
+<hr>
+<h2>Home Page</h2>
+<img src="assets/A1.png" width="800">
 
-<img src="assets/A1.png" alt="Home Page" width="500"/>
+<h2>Product Details</h2>
+<img src="assets/A2.png" width="800">
 
-![ShopHub Cart UI](assets/A2.png)
+<h2>Cart Page</h2>
+<img src="assets/A3.png" width="800">
 
-![ShopHub Cart UI](assets/A3.png)
+<h2>Wishlist Page</h2>
+<img src="assets/A4.png" width="800">
 
-![ShopHub Cart UI](assets/A4.png)
+<h2>Orders Page</h2>
+<img src="assets/A5.png" width="800">
 
-![ShopHub Cart UI](assets/A5.png)
-
-![ShopHub Cart UI](assets/A6.png)
+<h2>User Profile</h2>
+<img src="assets/A6.png" width="800">
