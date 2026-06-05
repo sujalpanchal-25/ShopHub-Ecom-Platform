@@ -94,3 +94,13 @@ This project is open-source and available under the MIT License.
 Built by Your Sujal Panchal
 
 ![ShopHub Cart UI](assets/A1.png)
+
+![ShopHub Cart UI](assets/A2.png)
+
+![ShopHub Cart UI](assets/A3.png)
+
+![ShopHub Cart UI](assets/A4.png)
+
+![ShopHub Cart UI](assets/A5.png)
+
+![ShopHub Cart UI](assets/A6.png)
