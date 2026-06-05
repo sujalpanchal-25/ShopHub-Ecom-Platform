@@ -10,6 +10,7 @@ ShopHub is a full-stack, responsive e-commerce platform built with a modern tech
 *   **Order Processing Pipeline:** Comprehensive checkout system with automated tax calculation, subtotal tracking, and order history management.
 *   **Automated Database Seeding:** Custom Python script to instantly populate the MySQL database with premium categories and classified asset products.
 *   **Next-Gen UI/UX:** Fully responsive, mobile-first design built with Tailwind CSS, featuring ambient glowing backgrounds, seamless flex-box stacking, and intelligent text-wrapping.
+*   **Django Admin Dashboard:** Fully integrated administrative interface to manage users, products, categories, and order statuses, allowing for efficient backend content control without manual database queries.
 
 ## 🛠️ Tech Stack
 
@@ -83,6 +84,14 @@ venv\Scripts\activate
 **Start the Vite development server:**
 * Bash
 * npm run dev
+
+### How to create the Superuser
+Since you are asking for the actual steps, here is how you do it on your local machine:
+
+*   **Open your terminal** and ensure you are in the folder where `manage.py` exists[cite: 9, 10].
+*   **Run the command:** `python manage.py createsuperuser`[cite: 9, 10].
+*   **Provide details:** It will ask for a username, email, and password. *Note: When typing the password, it will look like nothing is happening (no characters will appear on the screen)—this is a security feature in Linux/macOS/Windows terminals. Just type your password and press Enter[cite: 9, 10].*
+*   **Verify:** Once it says "Superuser created successfully," you can log in to your admin panel[cite: 9, 10].
 
 **🤝 Contributing**
 * Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
