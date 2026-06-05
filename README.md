@@ -49,49 +49,50 @@ venv\Scripts\activate
 source venv/bin/activate
 
 #2
-Install the required dependencies:
+**Install the required dependencies:**
 Bash
 pip install -r requirements.txt
 
 #3
-Configure your MySQL database settings in backend/settings.py. Then, run the migrations:
+**Configure your MySQL database settings in backend/settings.py. Then, run the migrations:**
 Bash
 python manage.py makemigrations
 python manage.py migrate
 Seed the Database (Optional but Recommended):
-Populate your fresh database with categories and products using the custom seed script:
 
+**Populate your fresh database with categories and products using the custom seed script:**
 Bash
 python seed_data.py
-Start the Django development server:
 
+**Start the Django development server:**
 Bash
 python manage.py runserver
-2. Frontend Setup (React/Vite)
-Open a new terminal and navigate to the frontend directory:
 
+**2. Frontend Setup (React/Vite)**
+Open a new terminal and navigate to the frontend directory:
 Bash
 cd frontend
-Install the Node modules:
 
+**Install the Node modules:**
 Bash
 npm install
-Configure your environment variables. Create a .env file in the root of the frontend folder:
 
+**Configure your environment variables.**
+Create a .env file in the root of the frontend folder:
 Code snippet
 VITE_BASE_URL=[http://127.0.0.1:8000](http://127.0.0.1:8000)
-Start the Vite development server:
 
+**Start the Vite development server:**
 Bash
 npm run dev
 
-🤝 Contributing
+**🤝 Contributing**
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-📝 License
+**📝 License**
 This project is open-source and available under the MIT License.
 
-Built by Your Sujal Panchal
+Built by **Sujal Panchal**
 <hr>
 <h2>Home Page</h2>
 <img src="assets/A1.png" width="800">
