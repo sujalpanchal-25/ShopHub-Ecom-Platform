@@ -1,4 +1,4 @@
-![ShopHub Cart UI](assets/A1.jpeg)
+![ShopHub Cart UI](assets/A1.png)
 # 🛒 ShopHub - Next-Gen E-Commerce Platform
 
 ShopHub is a full-stack, responsive e-commerce platform built with a modern tech stack. It features a futuristic, dark-themed UI with glassmorphism effects, robust JWT authentication, and a real-time dynamic inventory management system.
