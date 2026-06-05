@@ -1,4 +1,3 @@
-![ShopHub Cart UI](assets/A1.png)
 # 🛒 ShopHub - Next-Gen E-Commerce Platform
 
 ShopHub is a full-stack, responsive e-commerce platform built with a modern tech stack. It features a futuristic, dark-themed UI with glassmorphism effects, robust JWT authentication, and a real-time dynamic inventory management system.
@@ -92,4 +91,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 📝 License
 This project is open-source and available under the MIT License.
 
-Built by Your Name
+Built by Your Sujal Panchal
+
+![ShopHub Cart UI](assets/A1.png)
