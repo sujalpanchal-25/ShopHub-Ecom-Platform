@@ -95,18 +95,19 @@ Built by Your Sujal Panchal
 <hr>
 <h2>Home Page</h2>
 <img src="assets/A1.png" width="800">
-
+<hr>
 <h2>Product Details</h2>
 <img src="assets/A2.png" width="800">
-
+<hr>
 <h2>Cart Page</h2>
 <img src="assets/A3.png" width="800">
-
+<hr>
 <h2>Wishlist Page</h2>
 <img src="assets/A4.png" width="800">
-
-<h2>Orders Page</h2>
+<hr>
+<h2>Search Catalog</h2>
 <img src="assets/A5.png" width="800">
-
-<h2>User Profile</h2>
+<hr>
+<h2>CheckOut Page</h2>
 <img src="assets/A6.png" width="800">
+<hr>
