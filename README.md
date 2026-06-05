@@ -93,7 +93,7 @@ This project is open-source and available under the MIT License.
 
 Built by Your Sujal Panchal
 
-![ShopHub Cart UI](assets/A1.png)
+<img src="assets/A1.png" alt="Home Page" width="500"/>
 
 ![ShopHub Cart UI](assets/A2.png)
 
