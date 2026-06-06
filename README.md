@@ -101,6 +101,10 @@ venv\Scripts\activate
 
 * Built by **Sujal Panchal**
 <hr>
+## 🎥 Demo Video
+
+[Watch Demo Video](./assets/A7.mp4)
+<hr>
 <h2>Home Page</h2>
 <img src="assets/A1.png" width="800">
 <hr>
