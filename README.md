@@ -215,4 +215,17 @@ To contribute to the project, please follow these steps:
 The project is licensed under the MIT License.
 
 ## 📬 Contact
-For any questions or concerns, please contact us at [your-email@example.com](sujalpanchal257@gmail.com).
+For any questions or concerns, please contact us at [sujalpanchal257@gmail.com](mailto:sujalpanchal257@gmail.com)
+
+---
+
+## 👨‍💻 Author
+
+**Sujal Panchal**
+
+📧 Email: [sujalpanchal257@gmail.com](mailto:sujalpanchal257@gmail.com)
+
+🐙 GitHub: [sujalpanchal-25](https://github.com/sujalpanchal-25)
+
+💼 LinkedIn: [Sujal Panchal](https://www.linkedin.com/in/sujal-panchal-11686035a/)
+
