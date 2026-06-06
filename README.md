@@ -17,7 +17,7 @@ ShopHub is a responsive e-commerce platform built with a modern tech stack. It f
 * [Contributing](#-contributing)
 * [License](#-license)
 * [Contact](#-contact)
-* [Author](#-%E2%80%8D-author)
+* [Author](#%E2%80%8D-author)
 
 ---
 
