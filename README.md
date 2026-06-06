@@ -5,17 +5,19 @@ ShopHub is a responsive e-commerce platform built with a modern tech stack. It f
 ---
 
 ## 📋 Table of Contents
-- [Key Features](#-key-features)
-- [Tech Stack](#%EF%B8%8F-tech-stack)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Backend Setup](#1-backend-setup)
-  - [Frontend Setup](#2-frontend-setup-reactvite)
-  - [Creating a Superuser](#how-to-create-the-superuser)
-- [Demo & Media](#-demo-video)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Author](#author)
+* [Key Features](#-key-features)
+* [Tech Stack](#️-tech-stack)
+* [Project Structure](#-project-structure)
+* [Getting Started](#-getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Backend Setup](#1-backend-setup)
+  * [Frontend Setup](#2-frontend-setup-reactvite)
+  * [Creating a Superuser](#how-to-create-the-superuser)
+* [Demo & Media](#-demo-video)
+* [Contributing](#-contributing)
+* [License](#-license)
+* [Contact](#-contact)
+* [Author](#-author)
 
 ---
 
